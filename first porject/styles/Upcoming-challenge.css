@@ -1,0 +1,85 @@
+
+img{
+    width: 200px;
+    height: auto;
+    margin: 50px;
+}
+
+
+ol{
+
+    color: rgba(0, 4, 255, 0.671);
+    list-style: none;
+    font-size:32px;
+    font-family:'Fira Sans';
+    font-weight: bold;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0;
+
+}
+
+li{
+    background-color: rgb(214, 156, 31);
+    border-radius:6px;
+    margin: 32px;
+    padding: 16px;
+
+}
+
+a{ 
+    padding: 12px 48px;
+    color:white;
+    background-color: red;
+    border-radius: 5px;
+    border: 5px solid red;
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
